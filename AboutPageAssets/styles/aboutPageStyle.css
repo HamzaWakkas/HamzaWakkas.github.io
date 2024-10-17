@@ -2,6 +2,7 @@
 /* Global Styles */
 
 body {
+	background: #69726A;
 	margin-left: auto;
 	margin-right: auto;
 	width: 92%;
@@ -69,6 +70,7 @@ header .socialNetworkNavBar {
 }
 header .socialNetworkNavBar .socialNetworkNav {
 	border-radius: 50%;
+	background: white;
 	cursor: pointer;
 }
 header .socialNetworkNavBar .socialNetworkNav img:hover {
