@@ -2,7 +2,7 @@
 /* Global Styles */
 
 body {
-	background: #69726A;
+	background: #516D73;
 	margin-left: auto;
 	margin-right: auto;
 	width: 92%;
@@ -16,7 +16,7 @@ header {
 	display: block;
 }
 header .profileLogo .logoPlaceholder {
-	background-color: rgba(208,207,207,1.00);
+	background-color: #172026;
 	width: 187px;
 	text-align: center;
 }
@@ -24,7 +24,7 @@ header .logoPlaceholder span {
 	width: 80px;
 	height: 22px;
 	font-family: 'Montserrat', sans-serif;
-	color: rgba(255,255,255,1.00);
+	color: #8FCBD9;
 	font-size: 30px;
 	font-weight: 700;
 	line-height: 53px;
@@ -38,7 +38,7 @@ header .profilePhoto {
 }
 header .profileHeader h1 {
 	font-family: 'Montserrat', sans-serif;
-	color: li;
+	color: #172026;
 	font-size: 30px;
 	font-weight: 700;
 	line-height: 24px;
@@ -82,7 +82,7 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 }
 .section1 .sectionTitle, .section2 .sectionTitle {
 	font-family: 'Montserrat', sans-serif;
-	color: black;
+	color: #172026;
 	font-size: 18px;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -104,7 +104,7 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 	color: white;
 }
 .mainContent .section1 .section1Content span {
-	color: rgba(146,146,146,1.00);
+	color: black;
 	font-family: sans-serif;
 }
 .section2 .sectionContentTitle {
@@ -163,7 +163,7 @@ footer .footerDisclaimer {
 	font-weight: 700;
 }
 footer .footerDisclaimer span {
-	color: rgba(181,178,178,1.00);
+	color: black;
 	font-weight: 400;
 }
 footer .footerNote {
@@ -385,19 +385,19 @@ header .socialNetworkNavBar .socialNetworkNav {
 	clear: both;
 }
 .mainContent .externalResourcesNav .externalResources {
-	background: black;
+	background: #172026;
 	width: 199px;
 	height: 48px;
 }
 /* Footer */
 footer .footerDisclaimer {
-	color: rgba(181,178,178,1.00);
+	color: black;
 	float: left;
 	margin-left: 3%;
 	font-family: sans-serif;
 }
 footer .footerNote {
-	color:rgba(181,178,178,1.00);
+	color:black;
 	float: right;
 	margin-right: 3%;
 	font-family: sans-serif;
