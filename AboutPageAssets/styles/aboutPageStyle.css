@@ -30,7 +30,8 @@ header .logoPlaceholder span {
 	line-height: 53px;
 }
 header .profilePhoto {
-	margin-top: 90px;
+	margin-top: 180px;
+	
 	background-color: rgba(237,237,237,1.00);
 	width: 259px;
 	border-radius: 50%;
@@ -68,9 +69,11 @@ header .socialNetworkNavBar {
 	display: block;
 	margin-top: 60px;
 	clear: both;
+	margin-left: 100px;
 }
 header .socialNetworkNavBar .socialNetworkNav {
 	border-radius: 50%;
+	
 	background: white;
 	cursor: pointer;
 }
