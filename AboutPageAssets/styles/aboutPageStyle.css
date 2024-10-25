@@ -1,6 +1,35 @@
 @charset "utf-8";
 /* Global Styles */
+.inner {
+			margin: 0 auto;
+		    transform: translateX(-90px);
+			width: 55em;
+		}
 
+		.logo {
+			-moz-transition: opacity 2s ease, -moz-transform 1s ease;
+			-webkit-transition: opacity 2s ease, -webkit-transform 1s ease;
+			-ms-transition: opacity 2s ease, -ms-transform 1s ease;
+			transition: opacity 2s ease, transform 1s ease;
+			-moz-transform: translateY(0);
+			-webkit-transform: translateY(0);
+			-ms-transform: translateY(0);
+			transform: translateY(0);
+			opacity: 1;
+			margin: 0.2em 0 0 0;
+		}
+
+			.logo .icon {
+				border-radius: 100%;
+				border: solid 2px rgba(255, 255, 255, 0.125);
+				cursor: default;
+				display: inline-block;
+				font-size: 2em;
+				height: 2.25em;
+				line-height: 2.25em;
+				text-align: center;
+				width: 2.25em;
+			}
 body {
 	background: #516D73;
 	margin-left: auto;
