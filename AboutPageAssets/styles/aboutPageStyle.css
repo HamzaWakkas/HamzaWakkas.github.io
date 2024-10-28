@@ -96,7 +96,8 @@ header .profileHeader p {
 header .socialNetworkNavBar {
 	text-align: center;
 	display: block;
-	margin-top: 60px;
+	margin-top: 3.5em;
+	margin-bottom: -1.7em;
 	clear: both;
 	
 }
